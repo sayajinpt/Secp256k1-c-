@@ -4,9 +4,8 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "secp.h"
-using namespace std;
 
+using namespace std;
 namespace mp = boost::multiprecision;
 
 // Elliptic curve parameters (secp256k1)
